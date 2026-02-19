@@ -4,7 +4,7 @@ Persistent URI namespace:
 https://w3id.org/community-research-ontology/
 
 Maintainer:
-Your Name
+Lia Draetta
 GitHub: https://github.com/liadraetta
 
 Ontology location:
